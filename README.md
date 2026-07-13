@@ -1,4 +1,4 @@
-# DOM Manipulation & Smooth Scrolling Demo
+# Demo landing for tourism company
 
 An interactive demonstration of advanced DOM manipulation techniques using vanilla JavaScript. This project showcases modern web development practices including modal windows, smooth scrolling, event handling, and lazy loading.
 
